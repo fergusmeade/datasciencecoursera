@@ -1,4 +1,5 @@
 #Getting and Cleaning Data Project
+
 This document provides information on how the documents in this repo satisfy the requirements for the Getting and Cleaning Data Coursera course project. 
 
 In this project data from the accelerometers and gyroscopes of Samsung Galaxy S smartphones of 30 volunteers were retrieved, transformed and cleaned to prepare a tidy data set which one could use for further analysis. 
